@@ -1,0 +1,6 @@
+C:\Users\12574\Desktop\DreamY_New\Code\Native.Core\bin\x64\Release\app.json
+C:\Users\12574\Desktop\DreamY_New\Code\Native.Core\bin\x64\Release\io.github.Nanshenger.DreamY.dll
+C:\Users\12574\Desktop\DreamY_New\Code\Native.Core\bin\x64\Release\io.github.Nanshenger.DreamY.pdb
+C:\Users\12574\Desktop\DreamY_New\Code\Native.Core\obj\x64\Release\Native.Core.csprojAssemblyReference.cache
+C:\Users\12574\Desktop\DreamY_New\Code\Native.Core\obj\x64\Release\io.github.Nanshenger.DreamY.dll
+C:\Users\12574\Desktop\DreamY_New\Code\Native.Core\obj\x64\Release\io.github.Nanshenger.DreamY.pdb

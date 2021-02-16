@@ -1,0 +1,16 @@
+E:\Projects\DreamY\LocalDebuger\obj\Debug\LocalDebuger.csprojAssemblyReference.cache
+E:\Projects\DreamY\Native.Core\bin\x86\Debug\app.json
+E:\Projects\DreamY\LocalDebuger\obj\Debug\LocalDebuger.csproj.CopyComplete
+E:\Projects\DreamY\Native.Core\bin\x86\Debug\LocalDebuger.exe.config
+E:\Projects\DreamY\Native.Core\bin\x86\Debug\LocalDebuger.exe
+E:\Projects\DreamY\Native.Core\bin\x86\Debug\LocalDebuger.pdb
+E:\Projects\DreamY\LocalDebuger\obj\Debug\LocalDebuger.exe
+E:\Projects\DreamY\LocalDebuger\obj\Debug\LocalDebuger.pdb
+E:\Projects\DreamY\DreamYTest\app.json
+E:\Projects\DreamY\DreamYTest\LocalDebuger.exe.config
+E:\Projects\DreamY\DreamYTest\LocalDebuger.exe
+E:\Projects\DreamY\DreamYTest\LocalDebuger.pdb
+E:\Projects\DreamY\RobotTest\app.json
+E:\Projects\DreamY\RobotTest\LocalDebuger.exe.config
+E:\Projects\DreamY\RobotTest\LocalDebuger.exe
+E:\Projects\DreamY\RobotTest\LocalDebuger.pdb

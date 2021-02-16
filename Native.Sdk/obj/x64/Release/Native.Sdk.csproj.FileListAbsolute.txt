@@ -1,0 +1,5 @@
+C:\Users\12574\Desktop\DreamY_New\Code\Native.Sdk\bin\x64\Release\Native.Sdk.dll
+C:\Users\12574\Desktop\DreamY_New\Code\Native.Sdk\bin\x64\Release\Native.Sdk.pdb
+C:\Users\12574\Desktop\DreamY_New\Code\Native.Sdk\obj\x64\Release\Native.Sdk.csprojAssemblyReference.cache
+C:\Users\12574\Desktop\DreamY_New\Code\Native.Sdk\obj\x64\Release\Native.Sdk.dll
+C:\Users\12574\Desktop\DreamY_New\Code\Native.Sdk\obj\x64\Release\Native.Sdk.pdb
